@@ -1,9 +1,9 @@
-# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C++%2011-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-289%20%2F%20289-ff69b4.svg)
+# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C++11-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-289%20%2F%20289-ff69b4.svg)
 
 Up to date (2016-08-22), there are `289` problems on [LintCode Online Judge](http://lintcode.com/).
 The number of problems is increasing recently.
 Here is the classification of all `289` problems.
-For more problems and solutions, you can see my [LeetCode](https://github.com/kamyu104/LeetCode) repository.
+For more problems and solutions, you can see my [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) repository.
 I'll keep updating for full summary and better solutions. Stay tuned for updates.
 
 ## Algorithms
@@ -366,7 +366,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 |108|[Palindrome Partitioning II](http://lintcode.com/en/problem/palindrome-partitioning-ii/)| [C++](./C++/palindrome-partitioning-ii.cpp)| _O(n^2)_ | _O(n)_ | Medium | LeetCode, EPI | |
 |109|[Triangle](http://lintcode.com/en/problem/triangle/)| [C++](./C++/triangle.cpp)| _O(n)_ | _O(n)_ | Easy | LeetCode, EPI | |
 |110|[Minimum Path Sum](http://lintcode.com/en/problem/minimum-path-sum/)| [C++](./C++/minimum-path-sum.cpp)| _O(m * n)_ | _O(min(m, n))_ | Easy | LeetCode, EPI | |
-|111|[Climbing Stairs](http://lintcode.com/en/problem/climbing-stairs/)| [C++](./C++/climbing-stairs.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode | |
+|111|[Climbing Stairs](http://lintcode.com/en/problem/climbing-stairs/)| [C++](./C++/climbing-stairs.cpp)| _O(logn)_ | _O(1)_ | Easy | LeetCode | |
 |115|[Unique Paths II](http://lintcode.com/en/problem/unique-paths-ii/)| [C++](./C++/unique-paths-ii.cpp)| _O(m * n)_ | _O(min(m, n))_ | Easy | LeetCode, CTCI | DP, Math |
 |118|[Distinct Subsequences](http://lintcode.com/en/problem/distinct-subsequences/)| [C++](./C++/distinct-subsequences.cpp)| _O(m * n)_ | _O(m)_ | Medium | LeetCode | DP |
 |119|[Edit Distance](http://lintcode.com/en/problem/edit-distance/)| [C++](./C++/edit-distance.cpp)| _O(m * n)_ | _O(min(m, n))_ | Medium | LeetCode, CTCI | DP |
